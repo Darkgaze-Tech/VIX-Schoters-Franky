@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My News App</string>
+    <string name="Favorites">Favorites</string>
+    <string name="SearchNews">Search News</string>
+    <string name="category">Categories</string>
+    <string name="discover">Discover</string>
+    <string name="profile">My Profile</string>
+    <string name="TopNews">Top News</string>
+    <string name="nameOnly">Franky Halim</string>
+    <string name="profileName">Full name: Franky Halim</string>
+    <string name="githubName">Github username: Darkgaze-Tech</string>
+
+    <!-- Placeholder text -->
+    <string name="language">language</string>
+    <string name="sortBy">Sorted By</string>
+    <string name="maxResult">"Results"</string>
+    <string name="latest">Latest</string>
+    <string name="trending">trending</string>
+    <string name="home">home</string>
+    <string name="fav">favorites</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
