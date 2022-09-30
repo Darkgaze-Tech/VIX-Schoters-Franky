@@ -6,6 +6,8 @@ Simple News App Project
 Feature:
 1. List News → show all news 
 
+<!-- <p align="middle"> -->
+
 <p float="left">
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Top%20News.png" hspace="20" width=20% height=20%>
   <span> </span>
@@ -16,23 +18,23 @@ Feature:
   
 2. Detail News → show selected news detail
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Detail%20News.png)
+<img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Detail%20News.png" hspace="20" width=20% height=20%>
 
 3. Category → list category of news
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Categories.png)
+<img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Categories.png" hspace="20" width=20% height=20%>
 
 4. Saved News / Bookmarked News → show saved news / bookmarked news from list news
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Favorites.png)
+<img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Favorites.png" hspace="20" width=20% height=20%>
 
 5. Share News → share link of news to social media
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Share%20News.png)
+<img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Share%20News.png" hspace="20" width=20% height=20%>
 
 6. Profile → show description of my profile
 
-![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/My%20Profile.png)
+<img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/My%20Profile.png" hspace="20" width=20% height=20%>
 
 <br />
 
