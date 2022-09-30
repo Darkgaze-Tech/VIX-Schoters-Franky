@@ -8,7 +8,9 @@ Feature:
 
 <p float="left">
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Top%20News.png" width=20% height=20%>
+  <span></span>
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Latest.png" width=20% height=20%>
+  <span></span>
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Trending.png" width=20% height=20%>
 </p>
   
