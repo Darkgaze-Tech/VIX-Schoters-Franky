@@ -15,27 +15,32 @@ Feature:
   <span> </span>
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Trending.png" hspace="20" width=20% height=20%>
 </p>
+<br />
   
 2. Detail News → show selected news detail
 
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Detail%20News.png" hspace="20" width=20% height=20%>
+<br />
 
 3. Category → list category of news
 
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Categories.png" hspace="20" width=20% height=20%>
+<br />
 
 4. Saved News / Bookmarked News → show saved news / bookmarked news from list news
 
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Favorites.png" hspace="20" width=20% height=20%>
+<br />
 
 5. Share News → share link of news to social media
 
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Share%20News.png" hspace="20" width=20% height=20%>
+<br />
 
 6. Profile → show description of my profile
 
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/My%20Profile.png" hspace="20" width=20% height=20%>
-
+<br />
 <br />
 
 Built with:
