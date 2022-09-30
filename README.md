@@ -6,10 +6,12 @@ Simple News App Project
 Feature:
 1. List News → show all news 
 
+<p float="left">
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Top%20News.png" width=20% height=20%>
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Latest.png" width=20% height=20%>
 <img src="https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Home%20Trending.png" width=20% height=20%>
-
+</p>
+  
 2. Detail News → show selected news detail
 
 ![alt text](https://github.com/Darkgaze-Tech/VIX-Schoters-Franky/blob/main/UI/Detail%20News.png)
